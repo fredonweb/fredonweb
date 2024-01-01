@@ -7,6 +7,22 @@ C'est le moment de lister vos logiciels libres préférés, pour les recommander
 
 Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Signal.png">
+    </div>
+    <div>
+      <h2>Signal</h2>
+      <p>Application de messagerie et téléphonie mobile respectueuse de la vie privée.</p>
+      <div>
+        <a href="https://framalibre.org/notices/signal.html">Vers la notice Framalibre</a>
+        <a href="https://signal.org">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 Un exemple ci-dessous :
 
 # Mes logiciels libres pour randonner
